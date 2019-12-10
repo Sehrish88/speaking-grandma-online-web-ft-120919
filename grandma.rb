@@ -13,6 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma ("")
-  if 
+def speak_to_grandma ("I love you grandma")
+  if "I love you grandma" == "I love you grandma."
   
